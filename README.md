@@ -43,6 +43,5 @@ My code editor used is Visual Studio Code
 
 - Frontend Mentor - [@caytejohn](https://www.frontendmentor.io/profile/caytejohn)
 - Github - [@caytejohn](https://github.com/caytejohn)
-- LinkedIn - [CJ Castillo](www.linkedin.com/in/cj-castillo-74a3b2208)
 
 **Have fun building!** 🚀
