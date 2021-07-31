@@ -36,12 +36,13 @@ My code editor used is Visual Studio Code
 
 ## Links
 
-- Solution URL: [My solution](https://github.com/caytejohn/preview-card-component-)
-- Live Site URL: [Live Site](https://caytejohn.github.io/preview-card-component-/)
+- Solution URL: [My solution](https://github.com/caytejohn/column-preview-card-component)
+- Live Site URL: [Live site](https://caytejohn.github.io/column-preview-card-component/)
 
 ## Author
 
 - Frontend Mentor - [@caytejohn](https://www.frontendmentor.io/profile/caytejohn)
 - Github - [@caytejohn](https://github.com/caytejohn)
+- LinkedIn - [CJ Castillo](www.linkedin.com/in/cj-castillo-74a3b2208)
 
 **Have fun building!** 🚀
