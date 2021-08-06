@@ -97,19 +97,24 @@ p {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width: 1440px) {
+@media (min-width: 900px) {
   main {
     display: flex;
     flex-direction: row;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media (max-width: 1024px) {
   main {
     display: flex;
     flex-direction: column;
-    max-width: 1024px;
     margin: 5em 2em;
     margin-bottom: 0.5em;
+  }
+  #sedans {
+    border-radius: 1vh 1vh 0 0;
+  }
+  #luxury {
+    border-radius: 0 0 1vh 1vh;
   }
 }
