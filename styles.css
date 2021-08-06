@@ -12,8 +12,8 @@ body {
 main {
   max-width: 60rem;
   margin: 75px auto;
-  display: grid;
-  grid-template-columns: auto auto auto;
+  display: flex;
+  flex-direction: row;
 }
 
 #sedans {
@@ -95,13 +95,6 @@ p {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
-}
-
-@media (min-width: 900px) {
-  main {
-    display: flex;
-    flex-direction: row;
-  }
 }
 
 @media (max-width: 1024px) {
