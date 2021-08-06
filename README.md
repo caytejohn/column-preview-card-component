@@ -15,9 +15,10 @@ Your users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-## Screenshot of my 3-column preview card component
+## Screenshot
 
-![Design preview for the 3-column preview card component coding challenge](./design/frontend-mentor.png)
+![Desktop View](./design/front-end.png)
+![Mobile View](./design/mobile.png)
 
 ## Built with
 
