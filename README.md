@@ -28,8 +28,6 @@ Your users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-My code editor used is Visual Studio Code
-
 ## Useful Resources
 
 - [W3Schools](https://www.w3schools.com/)
